@@ -1,5 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        // Prints the classic "Hello, World!" message
+        System.out.println("Goodbye, World!");
     }
 }
